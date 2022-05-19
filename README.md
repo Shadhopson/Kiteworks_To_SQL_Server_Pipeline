@@ -1,3 +1,3 @@
 # Example Pipeline: Kiteworks to SQL Server
 
-ETL code from a work project, cleansed of sensitive information.
+ETL code from a work project.
