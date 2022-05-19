@@ -1,1 +1,3 @@
-"# Kiteworks_To_SQL_Server_Pipeline" 
+# Example Pipeline: Kiteworks to SQL Server
+
+ETL code from a work project, cleansed of sensitive information.
